@@ -62,3 +62,4 @@ Ans: Backgrouund processes can be stopped by using the following :
 output:
 Hello , Hello, Hello,  Hello , Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit
 30 HELLO'S & 16 EXITS
+FLOWCHART RELATED TO THIS QUESTION OF CHILD PROCESSES IS UPLOADED TO THIS REPOSITORY AND IS NAMED AS "BLANK DIAGRAM.png".
