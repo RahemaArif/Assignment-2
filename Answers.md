@@ -50,3 +50,17 @@ Ans: Backgrouund processes can be stopped by using the following :
  kill -STOP PID (process id)
  or:
  kill -19 PID (process id)
+ 
+ Q:What will be the output of the following?
+ for(int i=0;i<4;i++){
+ fork();
+ printf("Hello \n");
+ }
+ printf("Exit \n");
+ }
+ ![GitHub Logo](/Downloads/Blank Diagram.png)
+Format: ![Alt Text](url)
+
+output:
+Hello , Hello, Hello,  Hello , Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit
+30 HELLO'S & 16 EXITS
