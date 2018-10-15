@@ -58,8 +58,6 @@ Ans: Backgrouund processes can be stopped by using the following :
  }
  printf("Exit \n");
  }
- ![GitHub Logo](/Downloads/Blank Diagram.png)
-Format: ![Alt Text](url)
 
 output:
 Hello , Hello, Hello,  Hello , Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Hello, Exit, Hello, Exit, Hello, Hello, Exit, Hello, Exit
